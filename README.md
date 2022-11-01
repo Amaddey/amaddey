@@ -13,8 +13,9 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-dd4814?style=flat-square&logo=Ubuntu&logoColor=dd9909)
 
 #### Familiar with:
-![html](https://img.shields.io/badge/HTML-554420?style=flat-square&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-234420?&style=flat-square&logo=css3&logoColor=white)
 
 ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+![html](https://img.shields.io/badge/HTML-554420?style=flat-square&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-234420?&style=flat-square&logo=css3&logoColor=white)
