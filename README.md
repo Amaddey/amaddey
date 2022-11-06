@@ -3,6 +3,7 @@
 #### Stack :
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-32CD32?style=flat-square&logo=Spring&logoColor=7CFC00)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 #### IDE :
 ![IDE](https://img.shields.io/badge/-IntelliJ_IDEA-CF00F9?style=flat-square&logo=IntelliJIDEA&logoColor=FFFFFF)
