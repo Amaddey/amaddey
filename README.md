@@ -14,7 +14,6 @@
 ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-32CD32?style=flat-square&logo=Spring&logoColor=7CFC00)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badgestyle=flat-square)
 
 ![html](https://img.shields.io/badge/HTML-554420?style=flat-square&logo=html5&logoColor=white)
